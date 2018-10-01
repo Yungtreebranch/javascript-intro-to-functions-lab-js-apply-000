@@ -1,4 +1,4 @@
- vJavaScript Intro to Functions Lab
+  vJavaScript Intro to Functions Lab
 ---
 
 ## Objectives
